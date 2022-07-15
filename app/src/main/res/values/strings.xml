@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sirius</string>
+    <string name="review_ratings"><![CDATA[Review & Ratings]]></string>
+    <string name="reviewsCnt">%1$s Reviews</string>
 </resources>
